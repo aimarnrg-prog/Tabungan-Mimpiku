@@ -126,6 +126,4 @@ MIT License
 ![Repo Size](https://img.shields.io/github/repo-size/imalzcool16-prog/Tabungan-Mimpiku)
 ![Last Commit](https://img.shields.io/github/last-commit/imalzcool16-prog/Tabungan-Mimpiku)
 
-## Achievement Test
-
-Testing GitHub YOLO achievement.
+## Saya siap ikut hackathon
